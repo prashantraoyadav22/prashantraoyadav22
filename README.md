@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A dedicated MERN Stack & Python Developer crafting scalable full-stack solutions, with a keen interest in Machine Learning and AI to shape the future of tech.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantraoyadav22" alt="prashantraoyadav22" /></a> </p>
 
