@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Crew Store**
 
-- 👨‍💻 All of my projects are available at [https://prashant-yadav.netlify.app/](https://prashant-yadav.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prashant-yadav.netlify.app/)
 
 - 📫 How to reach me **prashantraoyadav22@gmail.com**
 
