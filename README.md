@@ -2,6 +2,7 @@
 <h3 align="center">A dedicated MERN Stack & Python Developer crafting scalable full-stack solutions, with a keen interest in Machine Learning and AI to shape the future of tech.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantraoyadav22" alt="prashantraoyadav22" /></a> </p>
+<img align="right" height="220" src="https://www.gifcen.com/wp-content/uploads/2022/11/luffy-gif-11.gif"  />
 
 - 🔭 I’m currently working on **Crew Store**
 
